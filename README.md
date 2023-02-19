@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# User-Friendly Tic-Tac-Toe Game with Dynamic GUI
 A simple Tic Tac Toe game built using JavaFX, featuring a 3x3 grid, player turn status, and a reset button.
 
 ## Description
